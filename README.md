@@ -47,3 +47,5 @@ The modified ver. is exactly the same as the original ver., but the lighting is 
 5. Simple interface designs on buttons, icons and other elements.
 
 # Issues
+1. In the song list, long song titles and categories may display incorrectly causing textures to overlap.
+2. osu!mania's skinning is relatively poor and using this skin in harder maps is not recommended.

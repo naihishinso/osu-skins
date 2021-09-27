@@ -41,5 +41,7 @@ The modified ver. is exactly the same as the original ver., but the lighting is 
 1. For osu!standard, the skin does not make use of combo colors and is colored white by default, making it easy to follow. As such, the skin works best with 100% background dim.
 2. Makes use of simple sounds for buttons and whatnot to prevent distractions while in-game.
 3. Small score numbers that don't block out circles.
+4. Very clear approach circles.
+5. Simple interface designs on buttons, icons and other elements.
 
 # Issues

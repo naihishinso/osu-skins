@@ -32,9 +32,11 @@ All gamemodes including osu!standard, osu!taiko, osu!catch and osu!mania are ful
 
 # Differences
 **Original ver.**
+
 The original ver. contains circle lighting for aesthetic purposes, but it may interfere with the gameplay and isn't very easy on the eyes, as seen in the first image.
 
 **Modified ver.**
+
 The modified ver. is exactly the same as the original ver., but the lighting is now much easier on the eyes and causes less confusion (shown in the second image). I highly recommend using the modified ver. when playing difficult maps that involve a lot jumps.
 
 # Features

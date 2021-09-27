@@ -10,7 +10,7 @@ Contains downloadable osu! skins I make when I'm bored. These are completely fre
 # Clear 1.0
 A simple, clean and easy-to-follow modern-looking skin that's designed to be easy on the eyes. Several reworks have gone into this skin such as altering slider body visibility to make circles placed under sliders much more visible.
 
-All gamemodes including osu!standard, osu!taiko, osu!catch and osu!mania are fully skinned, though the skin is primarily designed to be used for standard and catch gamemodes.
+All gamemodes including osu!standard, osu!taiko, osu!catch and osu!mania are fully skinned, though the skin is primarily designed to be used for osu!standard and osu!catch gamemodes.
 
 # Links for Download
 

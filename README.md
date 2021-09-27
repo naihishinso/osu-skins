@@ -14,11 +14,27 @@ All gamemodes including osu!standard, osu!taiko, osu!catch and osu!mania are ful
 
 # Links for Download
 
-Original version:
-[.osk version](https://www.mediafire.com/file/0pfh5830v1qa2v6/Clear_1.0.osk/file), [.zip version](https://www.mediafire.com/file/hvw95lyyhxq6pyr/Clear_1.0.osk.zip/file)
+**Original version**
 
-Modified version:
-[.osk version](https://www.mediafire.com/file/0jmvj4weqln54ls/Clear_1.0_%255BModified_Lighting%255D.osk/file), [.zip version](https://www.mediafire.com/file/kh0795wydepcy08/Clear_1.0_%255BModified_Lighting%255D.osk.zip/file)
+[.osk version](https://www.mediafire.com/file/0pfh5830v1qa2v6/Clear_1.0.osk/file)
 
-# Preview 
+[.zip version](https://www.mediafire.com/file/hvw95lyyhxq6pyr/Clear_1.0.osk.zip/file)
+
+**Modified version**
+
+[.osk version](https://www.mediafire.com/file/0jmvj4weqln54ls/Clear_1.0_%255BModified_Lighting%255D.osk/file)
+
+[.zip version](https://www.mediafire.com/file/kh0795wydepcy08/Clear_1.0_%255BModified_Lighting%255D.osk.zip/file)
+
+# Previews 
 ![Original](https://i.ibb.co/dc0wK4b/Screen-Shot-2021-09-27-at-9-51-26-PM.png)
+![Modified](https://i.ibb.co/Swg5TnG/Screen-Shot-2021-09-27-at-10-02-02-PM.png)
+
+# Differences
+**Original ver.**
+The original ver. contains circle lighting for aesthetic purposes, but it may interfere with the gameplay and isn't very easy on the eyes, as seen in the first image.
+
+**Modified ver.**
+The modified ver. is exactly the same as the original ver., but the lighting is now much easier on the eyes and causes less confusion (shown in the second image). I highly recommend using the modified ver. when playing difficult maps that involve a lot jumps.
+
+# Issues

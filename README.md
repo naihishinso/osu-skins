@@ -41,10 +41,11 @@ The modified ver. is exactly the same as the original ver., but the lighting is 
 
 # Features
 1. For osu!standard, the skin does not make use of combo colors and is colored white by default, making it easy to follow. As such, the skin works best with 100% background dim.
-2. Makes use of simple sounds for buttons and whatnot to prevent distractions while in-game.
-3. Small score numbers that don't block out circles.
-4. Very clear approach circles.
-5. Simple interface designs on buttons, icons and other elements.
+2. For osu!catch users, fruits have been replaced with large circles with bright colours to make them easier to spot.
+3. Makes use of simple sounds for buttons and whatnot to prevent distractions while in-game.
+4. Small score numbers that don't block out circles.
+5. Very clear approach circles.
+6. Simple interface designs on buttons, icons and other elements.
 
 # Issues
 1. In the song list, long song titles and categories may display incorrectly causing textures to overlap.

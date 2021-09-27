@@ -37,4 +37,9 @@ The original ver. contains circle lighting for aesthetic purposes, but it may in
 **Modified ver.**
 The modified ver. is exactly the same as the original ver., but the lighting is now much easier on the eyes and causes less confusion (shown in the second image). I highly recommend using the modified ver. when playing difficult maps that involve a lot jumps.
 
+# Features
+1. For osu!standard, the skin does not make use of combo colors and is colored white by default, making it easy to follow. As such, the skin works best with 100% background dim.
+2. Makes use of simple sounds for buttons and whatnot to prevent distractions while in-game.
+3. Small score numbers that don't block out circles.
+
 # Issues

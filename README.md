@@ -21,4 +21,4 @@ Modified version:
 [.osk version](https://www.mediafire.com/file/0jmvj4weqln54ls/Clear_1.0_%255BModified_Lighting%255D.osk/file), [.zip version](https://www.mediafire.com/file/kh0795wydepcy08/Clear_1.0_%255BModified_Lighting%255D.osk.zip/file)
 
 # Preview 
-![Original](file:///Users/Izzy/Desktop/Screen%20Shot%202021-09-27%20at%209.51.26%20PM.png)
+![Original](https://i.ibb.co/dc0wK4b/Screen-Shot-2021-09-27-at-9-51-26-PM.png)
